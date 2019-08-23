@@ -1,3 +1,3 @@
 # Git_xuexi
 
-´ó¸ÅºÃ
+hello
